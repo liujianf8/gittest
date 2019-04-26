@@ -264,7 +264,7 @@ public class QRCodeUtil {
     }
     
     public static void main(String[] args) throws Exception {
-        String text = "http://www.baidu.com";  //这里设置自定义网站url
+        String text = "https://www.sina.com.cn";  //这里设置自定义网站url
         String logoPath = "d:\\zilv.jpg"; 
         String destPath = "d:\\"; 
         QRCodeUtil.encode(text, logoPath, destPath, true);  
