@@ -6,7 +6,7 @@ public class GitHubTest {
 
 
 
-		System.out.println("it's remote commit10");
+		System.out.println("it's remote commit10 OK");
 
 	}
 
