@@ -4,7 +4,7 @@ public class GitHubTest {
 
 	public static void main(String[] args) {
 
-		System.out.println("it's remote commit15 OK");
+		System.out.println("it's remote commit16 OK");
 
 	}
 
